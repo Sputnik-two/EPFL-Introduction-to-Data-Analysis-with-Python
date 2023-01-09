@@ -1,4 +1,4 @@
-#01. Introduction to Data Analysis with Python
+# 01. Introduction to Data Analysis with Python
 
 
 Foundational concepts of data analysis:
